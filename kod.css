@@ -1,0 +1,64 @@
+a{ 
+	color: #8B4513;
+	text-decoration: none;
+	opacity: 0.9;
+}
+a:hover {
+	color: #800000; /* Цвет ссылки при наведении на нее курсора мыши */
+}
+html {
+	background-image: url(file:///C:/Users/79507/Documents/XuanZhi9/Pictures/Без%20названия6_20240329191645.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+section {
+	background: #8B4513;
+	padding: 10px;
+	opacity: 1;
+}
+h1 {
+	background: #FFF8DC;
+    	margin-top: 0;
+    	padding: 0px;
+	opacity: 100%;
+	width: 65%
+	left: 280px;
+	top: 650px;
+}
+div {
+	opacity: .9;
+}
+.border > div {
+	border: 2px solid #800000;
+  	border-top: 2px solid transparent;
+  	height: 100px;
+}
+button {
+	background: #FFF8DC;
+    	border: none;
+    	padding: 1rem 1.5rem;
+    	margin-bottom: 1rem;
+	opacity: .9;
+}
+@font-face {
+	font-family: 'kuraleregular';
+	src: url('C:\Users\79507\Downloads\webfontkit-20240331-082448\kurale-regular-webfont.woff2') format('woff2'),
+         url('C:\Users\79507\Downloads\webfontkit-20240331-082448\kurale-regular-webfont.woff') format('woff');
+    		font-weight: normal;
+    		font-style: italic;
+}
+h2 {
+	font-family: 'kuraleregular';
+}
+width: 65%;
+height: 1100px;
+border:1px solid;
+margin:auto;
+background-color: #8B4513;
+left: 280px;
+top: 650px;
