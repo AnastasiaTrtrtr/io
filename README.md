@@ -1,1 +1,1 @@
-# tertova.githib.io
+# tertova.github.io
